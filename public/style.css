@@ -1,0 +1,40 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(salon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: red;
+  font-family: 'Merienda', cursive;
+}
+
+button{
+  font-size: 25px;
+  background-color: red;
+  border-radius: 25%;
+}
+.salons{
+  font-size: 25px;
+}
+.col-sm-6{
+  background-color: white;
+}
+h1{
+    font-family: 'Merienda', cursive;
+
+}
+h3{
+    font-family: 'Merienda', cursive;
+    border-bottom: 5px solid red;
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    font-family: 'Merienda', cursive;
+}
+input{
+  font-size: 25px;
+}
+.fa-thumbs-up{
+  color:black;
+}
